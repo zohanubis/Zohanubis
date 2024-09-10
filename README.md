@@ -1,4 +1,4 @@
-# Pham Ho Dang Huy - Java Developer Intern
+# Pham Ho Dang Huy - Web Developer
 
 ## About Me
 Hi! I'm Pham Ho Dang Huy, a fourth-year Software Engineering student with a strong passion for back-end development. I have experience working with Java, Spring Boot, and ASP.NET MVC, and have completed various web development projects. Currently, I'm seeking an internship to further hone my skills and gain real-world experience in software development.
@@ -20,10 +20,7 @@ Ho Chi Minh City University of Industry and Trade
 ## Technical Skills
 
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-- ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
 
 ### Frameworks & Tools
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
