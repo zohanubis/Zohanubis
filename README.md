@@ -20,7 +20,10 @@ Ho Chi Minh City University of Industry and Trade
 ## Technical Skills
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) **(Basic)** 
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
@@ -29,8 +32,7 @@ Ho Chi Minh City University of Industry and Trade
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
-
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white) **(Basic)**
 
 ### Database Systems
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
@@ -70,4 +72,3 @@ A fundamental online bookstore with browsing and purchasing features.
   - **Tools**: Visual Studio, SQL Server
 
 ---
-
