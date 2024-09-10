@@ -36,6 +36,10 @@ Ho Chi Minh City University of Industry and Trade
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=white) 
 
+### Architecture & Design Patterns
+![MVC](https://img.shields.io/badge/MVC-%23563D7C.svg?style=flat&logo=architecture&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-%23F05033.svg?style=flat&logo=microservices&logoColor=white) 
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) 
