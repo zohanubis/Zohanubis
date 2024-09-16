@@ -1,4 +1,4 @@
-# Pham Ho Dang Huy - Web Developer
+# Pham Ho Dang Huy - Software Engineering
 
 ## About Me
 Hi! I'm Pham Ho Dang Huy, a fourth-year Software Engineering student with a strong passion for back-end development. I have experience working with Java, Spring Boot, and ASP.NET MVC, and have completed various web development projects. Currently, I'm seeking an internship to further hone my skills and gain real-world experience in software development.
