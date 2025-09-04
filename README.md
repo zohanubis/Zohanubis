@@ -126,20 +126,22 @@ graph TB
     
     L[Kafka] --> M[Event Bus]
     M --> N[Analytics Service]
-```[^3]
+```
 
-#### 🛠️ Tech Stack
+#### 🛠️ Tech Stack (HUIT-EDU)
 
 - **Frontend:** Next.js 15+, React 19, TypeScript, Tailwind CSS
 - **Backend:** NestJS 11+, Microservices, gRPC, KafkaJS
 - **Infrastructure:** Docker, Nx Monorepo, AWS
 
-#### 🚀 Key Features
+#### 🚀 Key Features (HUIT-EDU)
 
 - ✅ Microservices architecture with gRPC communication
 - ✅ Real-time notifications with Firebase FCM
 - ✅ Event-driven architecture with Kafka
 - ✅ Comprehensive student and course management
+
+*Architecture diagram rendered with Mermaid[^3]*
 
   </details>
 
@@ -162,21 +164,23 @@ sequenceDiagram
     R-->>B: Verification Result
     B->>N: Send Notification
     N-->>S: Attendance Confirmed
-```[^3]
+```
 
-#### 🛠️ Tech Stack
+#### 🛠️ Tech Stack (Edu Attendance)
 
 - **Backend:** NestJS 10+, RabbitMQ, MongoDB, Redis
 - **Frontend:** Next.js 15+, Shadcn/UI, TypeScript
 - **AI/ML:** AWS Rekognition for face recognition
 - **Infrastructure:** Docker Compose, AWS S3
 
-#### 🚀 Key Features
+#### 🚀 Key Features (Edu Attendance)
 
 - ✅ Face recognition attendance system
 - ✅ Real-time notifications
 - ✅ Role-based access control
 - ✅ Comprehensive analytics dashboard
+
+*Sequence diagram rendered with Mermaid[^3]*
 
   </details>
 
@@ -186,9 +190,9 @@ sequenceDiagram
 
 | Achievement | Year | Description | Certificate |
 |-------------|------|-------------|-------------|
-| 🥈 **2nd Prize** | 2023 | Academic Competition | [View Certificate](https://asset.cloudinary.com/zohanubis/f9c1acc9dc84bc7528711769ab9822c0) |
-| 🏆 **Finalist** | 2023 | Academic Competition | [View Certificate](https://asset.cloudinary.com/zohanubis/0169636c6faf1fe9ac929dc5d687bf7c) |
-| 📚 **Participation** | 2023 | Student Scientific Research (Round 1) | [View Certificate](https://collection.cloudinary.com/zohanubis/25589468212219bbe6b907d77a390a62) |
+| 🥈 **2nd Prize** | 2025 | Academic Competition | [View Certificate](https://res.cloudinary.com/zohanubis/image/upload/fl_preserve_transparency/v1749702002/GiaiNhi-DigtalTransformChallenge._r2csef.jpg?_s=public-apps) |
+| 🏆 **Finalist** | 2025 | Academic Competition | [View Certificate](https://res.cloudinary.com/zohanubis/image/upload/fl_preserve_transparency/v1749701985/ChungKet-DigtalTransformChallenge_mr5aw8.jpg?_s=public-apps) |
+| 📚 **Participation** | 2025 | Student Scientific Research (Round 1) | [View Certificate](https://res.cloudinary.com/zohanubis/image/upload/fl_preserve_transparency/v1749701986/NCKH-Vong1_kjvskm.jpg?_s=public-apps) |
 
 ---
 
@@ -202,14 +206,6 @@ sequenceDiagram
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Zohanubis/Zohanubis/output/github-contribution-grid-snake-dark.svg)[^1]
-
-  </div>
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -220,28 +216,7 @@ sequenceDiagram
 
 ---
 
-## 🎯 Learning Timeline
-
-```mermaid
-gantt
-    title Software Engineering Journey
-    dateFormat  YYYY-MM-DD
-    section Foundation
-    Programming Basics    :done, basics, 2021-01-01, 2021-06-30
-    Data Structures      :done, ds, 2021-07-01, 2021-12-31
-    
-    section Web Development
-    Frontend (React)     :done, frontend, 2022-01-01, 2022-06-30
-    Backend (Node.js)    :done, backend, 2022-07-01, 2022-12-31
-    
-    section Advanced
-    Microservices        :done, micro, 2023-01-01, 2023-06-30
-    Cloud & DevOps       :active, cloud, 2023-07-01, 2024-06-30
-    
-    section Projects
-    HUIT-EDU            :done, huit, 2024-01-01, 2024-06-30
-    Edu Attendance      :done, attendance, 2024-07-01, 2024-12-31
-```[^3]
+*Timeline chart rendered with Mermaid[^3]*
 
 ---
 
@@ -283,7 +258,7 @@ gantt
 
 <div align="center">
 
-**📬 Ready to collaborate? Let's build something amazing together!**
+### 📬 Ready to collaborate? Let's build something amazing together
 
 ![Footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -293,8 +268,3 @@ gantt
 
 ---
 
-### 📝 Footnotes
-
-[^1]: Animated elements are server-rendered SVGs/GIFs from third-party services (no client-side scripts).
-[^2]: All statistics are automatically updated via GitHub Actions.
-[^3]: Mermaid diagrams are rendered by GitHub's built-in support.
