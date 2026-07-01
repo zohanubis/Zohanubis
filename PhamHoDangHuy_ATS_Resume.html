@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pham Ho Dang Huy - ATS Resume</title>
+  <style>
+    :root {
+      --text: #111827;
+      --muted: #4b5563;
+      --border: #d1d5db;
+      --heading: #0f172a;
+      --accent: #1f2937;
+      --bg: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 11.5pt;
+      line-height: 1.45;
+    }
+
+    .page {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 36px 42px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24pt;
+      line-height: 1.1;
+      letter-spacing: 0.5px;
+      color: var(--heading);
+      text-transform: uppercase;
+    }
+
+    .target-title {
+      margin-top: 5px;
+      font-size: 13pt;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .contact {
+      margin-top: 8px;
+      font-size: 10.5pt;
+      color: var(--muted);
+    }
+
+    .contact a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    section {
+      margin-top: 16px;
+    }
+
+    h2 {
+      margin: 0 0 7px 0;
+      padding-bottom: 3px;
+      border-bottom: 1px solid var(--border);
+      color: var(--heading);
+      font-size: 12.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    p {
+      margin: 0 0 7px 0;
+    }
+
+    .skills p {
+      margin: 0 0 4px 0;
+    }
+
+    .item {
+      margin-bottom: 12px;
+      break-inside: avoid;
+    }
+
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: baseline;
+      margin-bottom: 2px;
+    }
+
+    .item-title {
+      font-weight: 700;
+      color: var(--heading);
+    }
+
+    .item-meta {
+      color: var(--muted);
+      font-size: 10.5pt;
+      white-space: nowrap;
+    }
+
+    .subline {
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 4px;
+    }
+
+    ul {
+      margin: 4px 0 0 18px;
+      padding: 0;
+    }
+
+    li {
+      margin: 0 0 3px 0;
+      padding-left: 2px;
+    }
+
+    strong {
+      font-weight: 700;
+    }
+
+    .note {
+      color: var(--muted);
+    }
+
+    @media print {
+      body {
+        font-size: 10.5pt;
+      }
+
+      .page {
+        max-width: none;
+        padding: 18mm 16mm;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      section {
+        margin-top: 12px;
+      }
+
+      .item {
+        margin-bottom: 9px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>Pham Ho Dang Huy</h1>
+      <div class="target-title">Software Engineer / Fullstack Developer</div>
+      <div class="contact">
+        zohanubis.work@gmail.com | 0779.139.003 | github.com/zohanubis | linkedin.com/in/zohanubis
+      </div>
+    </header>
+
+    <section>
+      <h2>Professional Summary</h2>
+      <p>
+        Software Engineer with hands-on experience across frontend and backend development, specializing in
+        <strong>TypeScript, Java, Next.js, React, Spring Boot, and Go</strong>. Experienced in building production e-commerce interfaces,
+        responsive UI components, REST/GraphQL API integrations, backend service implementation, technical documentation,
+        bug resolution, and performance optimization. Currently working as a <strong>Frontend Developer</strong> on a production
+        e-commerce platform and contributing to backend development for a confidential foreign client using
+        <strong>Java and Spring Boot</strong>. Strong ability to collaborate with frontend, backend, QA, designer, and PM teams to clarify
+        requirements, resolve issues, and deliver maintainable software.
+      </p>
+    </section>
+
+    <section class="skills">
+      <h2>Technical Skills</h2>
+      <p><strong>Languages:</strong> TypeScript, Java, JavaScript, Go, SQL, Dart, Python</p>
+      <p><strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Shadcn/UI, Bootstrap, Flutter, Responsive Design, Figma-to-Code</p>
+      <p><strong>Backend:</strong> Java Spring Boot, Go, Chi, NestJS, Express.js, FastAPI, REST API, GraphQL, tRPC, gRPC, JWT Authentication</p>
+      <p><strong>Databases & Caching:</strong> Supabase/PostgreSQL, MongoDB, MySQL, Redis, ORM, Database Migrations</p>
+      <p><strong>DevOps & Tools:</strong> Git, GitHub Actions, Docker, Vercel, Swagger/OpenAPI, Firebase, Cloudinary, AWS S3</p>
+      <p><strong>Testing & Quality:</strong> Jest, Testing Library, JUnit, Mockito, ESLint, Prettier</p>
+      <p><strong>Practices:</strong> Agile Scrum, OOP, SOLID, Clean Architecture, Hexagonal Architecture, Modular Monolith, Microservices, API Documentation</p>
+    </section>
+
+    <section>
+      <h2>Professional Experience</h2>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Frontend Developer — Cyberskill Software Solutions</div>
+          <div class="item-meta">Jul 2025 – Present</div>
+        </div>
+        <div class="subline">Ho Chi Minh City, Vietnam | Full-time | Project: CNL Gaming — E-commerce Platform for Game Items</div>
+        <ul>
+          <li>Develop and maintain production e-commerce interfaces for CNL Gaming using <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>.</li>
+          <li>Participate in implementing and optimizing most major frontend pages across the platform, including responsive layouts, dynamic UI flows, and reusable component structures.</li>
+          <li>Build, refactor, and optimize <strong>30+ reusable UI components</strong>, improving frontend consistency, maintainability, and implementation speed.</li>
+          <li>Convert Figma designs into responsive web interfaces and collaborate with designer, backend engineers, QA, and PM to align UI behavior with business requirements.</li>
+          <li>Integrate frontend features with <strong>REST and GraphQL APIs</strong>, ensuring stable data flow between frontend screens and backend services.</li>
+          <li>Improve web performance by optimizing frontend rendering and loading behavior, bringing <strong>LCP from poor/red status to good/green status</strong> on key pages.</li>
+          <li>Handle production and inherited UI/functional issues by reproducing QA-reported bugs, discussing edge cases, validating expected behavior with stakeholders, and delivering final fixes.</li>
+          <li>Write technical notes and backend change requests when frontend requirements require API, data contract, or backend behavior updates.</li>
+          <li>Work in a cross-functional team of <strong>2 frontend developers, 2 backend developers, 1 QA, 1 designer, and 1 PM</strong>.</li>
+        </ul>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Backend Developer Freelancer — Confidential Foreign Client</div>
+          <div class="item-meta">Aug 2025 – Present</div>
+        </div>
+        <div class="subline">Remote | Freelance / Confidential Engagement</div>
+        <ul>
+          <li>Develop backend features for a confidential foreign client using <strong>Java and Spring Boot</strong>.</li>
+          <li>Implement backend service logic, RESTful APIs, and application modules based on business requirements and system constraints.</li>
+          <li>Work with backend communication patterns and API integration approaches including <strong>REST, GraphQL, tRPC, and gRPC</strong>, depending on project architecture and system needs.</li>
+          <li>Support API documentation and backend change clarification to ensure frontend and integration layers can consume services reliably.</li>
+          <li>Collaborate asynchronously with project stakeholders to clarify requirements, resolve implementation issues, and deliver backend updates.</li>
+          <li>Maintain confidentiality of client and company information while contributing to production-oriented backend development.</li>
+        </ul>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Fullstack Web Intern — Cyberskill Software Solutions</div>
+          <div class="item-meta">Sep 2024 – Dec 2024</div>
+        </div>
+        <div class="subline">Ho Chi Minh City, Vietnam | Internship | Project: Student Life — Rental Management Platform | Team Size: 12</div>
+        <ul>
+          <li>Contributed to a rental management platform connecting students with landlords and improving accommodation search transparency.</li>
+          <li>Developed frontend pages including <strong>home page</strong> and <strong>listing page</strong> using React.js, Next.js, TypeScript, and Tailwind CSS.</li>
+          <li>Implemented listing-oriented UI flows such as rental browsing, search/filter presentation, and responsive layouts for student users.</li>
+          <li>Collaborated in a cross-functional team of <strong>4 frontend developers, 4 backend developers, 1 BA, 1 QA, 1 DevOps, and 1 PM</strong>.</li>
+          <li>Supported fullstack development tasks involving MongoDB, Node.js/Express.js, REST/GraphQL APIs, Git, Docker, and GitHub Actions.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Selected Projects</h2>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Sang Mobile Ecommerce — SEO & GEO-focused E-commerce Platform</div>
+          <div class="item-meta">Jun 2026 – Present</div>
+        </div>
+        <div class="subline">Solo Fullstack Developer | Client Project | Expected MVP: Aug 2026</div>
+        <ul>
+          <li>Lead architecture and fullstack development of a Vietnamese e-commerce platform for mobile phones, used phones, accessories, SIM cards, and technology products.</li>
+          <li>Build both storefront and admin system, including catalog, search/filter, product comparison, cart, checkout, orders, customers, inventory, shipping, payment, and content management.</li>
+          <li>Develop SEO/GEO-focused Next.js pages with metadata, sitemap, structured data, canonical URLs, content pages, and future <strong>Generative Engine Optimization</strong> support.</li>
+          <li>Build a <strong>Go Chi REST API</strong> backend using <strong>DDD, Clean Architecture, Hexagonal Architecture, and modular monolith</strong> principles.</li>
+          <li>Design role-based admin access control with owner, admin, staff, and extensible custom roles.</li>
+          <li>Model e-commerce data for used-device condition, product variants, specifications, stock, payment status, shipping, and order fulfillment.</li>
+          <li>Integrate Clerk/JWT authentication, PayOS QR payment, COD/cash payment flows, Supabase/PostgreSQL, Supabase Realtime, Cloudinary, Docker, and GitHub Actions CI/CD.</li>
+          <li>Plan free-tier-friendly infrastructure with Vercel frontend deployment, Dockerized backend deployment, monitoring/logging, rate limiting, security middleware, and queue-based asynchronous processing.</li>
+        </ul>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">LineApp VietNam — Family Tree Canvas Web App</div>
+          <div class="item-meta">Real-user Project</div>
+        </div>
+        <div class="subline">Fullstack Developer | Users: ~100 families | Next.js, TypeScript, Clerk, Supabase, Prisma, REST API, Vercel, GitHub Actions</div>
+        <ul>
+          <li>Built a fullstack family tree management web application used by approximately <strong>100 families</strong>, with a scalable architecture for future user growth.</li>
+          <li>Developed an interactive canvas-based family tree interface for visualizing, creating, updating, and managing family relationships.</li>
+          <li>Implemented secure authentication with Clerk and owner-controlled permission flows, allowing tree owners to grant viewer and editor access.</li>
+          <li>Designed Supabase and Prisma data models for users, family members, relationships, permissions, and family tree ownership.</li>
+          <li>Built and integrated REST APIs using Next.js to support family tree operations, permission management, and user-related workflows.</li>
+          <li>Deployed the application on Vercel and configured CI/CD workflows with GitHub Actions to streamline build and deployment processes.</li>
+        </ul>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Edu Attendance HUIT — Academic Article & Student Activity Attendance System</div>
+          <div class="item-meta">Apr 2025 – Jun 2025</div>
+        </div>
+        <div class="subline">Solo Fullstack Developer | Second Prize — HUIT Academic Competition 2024–2025, “Digital Transformation Challenge”</div>
+        <ul>
+          <li>Built an award-winning role-based web platform for student activity registration, attendance tracking, and academic article submission as a solo developer.</li>
+          <li>Developed a responsive dark-mode frontend using <strong>Next.js 15, TypeScript, Shadcn/UI, and Tailwind CSS</strong>, focusing on role-based access flows and usability.</li>
+          <li>Implemented secure attendance verification flows using <strong>QR-code check-in, AWS Rekognition facial recognition, and Google Vision-based digital signature verification</strong>.</li>
+          <li>Designed and developed a microservices-oriented backend using NestJS, MongoDB Replica Set, Redis, JWT authentication, and API documentation.</li>
+          <li>Integrated AWS S3 for media storage and Firebase Cloud Messaging for real-time user notifications.</li>
+          <li>Containerized services with Docker, automated CI/CD pipelines with GitHub Actions, and authored RPD, SRS, data models, and system documentation.</li>
+          <li>Won Second Prize at a university-level competition among <strong>30 teams</strong>, competing solo while most teams consisted of multiple members.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Awards</h2>
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Second Prize — HUIT Academic Competition 2024–2025, “Digital Transformation Challenge”</div>
+          <div class="item-meta">2025</div>
+        </div>
+        <p>University-level competition among <strong>30 teams</strong>; awarded for Edu Attendance HUIT as a solo contestant while most teams had multiple members.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="item">
+        <div class="item-header">
+          <div class="item-title">Ho Chi Minh City University of Industry and Trade (HUIT)</div>
+          <div class="item-meta">2022 – Nov 2025</div>
+        </div>
+        <p><strong>Bachelor of Science in Software Engineering</strong></p>
+        <p class="note">Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Web Development, Software Architecture, Object-Oriented Programming, Microservices Design</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
