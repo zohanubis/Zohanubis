@@ -39,33 +39,42 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
-## <img src="https://api.iconify.design/lucide:radar.svg?color=%231C69D4" width="22" alt="radar icon" /> ENGINEERING PROFILE
+## <img src="https://api.iconify.design/lucide:radar.svg?color=%231C69D4" width="24" alt="radar" /> ENGINEERING PROFILE
 
-I build across **frontend** and **backend**, with a strong focus on **product systems**, **API design**, **responsive interfaces**, and **maintainable architecture**.
+</div>
 
-My current engineering lane combines **React / Next.js / TypeScript** for product-facing interfaces and **Java Spring Boot / Go** for backend systems. I like simple systems first, clear boundaries next, and scalable architecture when the business actually needs it.
+I build across the full product layer: **frontend interfaces**, **backend services**, **API contracts**, **database flows**, and **deployment pipelines**. My strongest lane is **Fullstack Engineering** — using **React / Next.js / TypeScript** for product-facing experiences and **Java Spring Boot / Go** for backend systems.
 
-</td>
-<td width="38%" valign="top">
+I care about systems that are simple enough to ship, structured enough to maintain, and ready to scale when the business proves it needs to scale.
 
-## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23E22718" width="22" alt="terminal icon" /> CURRENT MODE
+<div align="center">
 
-```txt
-Role       Backend & Frontend Engineer
-Main       Full-time software work
-Also       Selective freelance projects
-Focus      E-commerce, APIs, UI, architecture
-Style      Modern-classic, simple, structured
-Brand      Zohanubis
+<img src="https://img.shields.io/badge/FRONTEND-React%20%7C%20Next.js%20%7C%20TypeScript-000000?style=flat-square&labelColor=000000&color=1a1a1a" alt="Frontend" />
+<img src="https://img.shields.io/badge/BACKEND-Java%20Spring%20Boot%20%7C%20Go-000000?style=flat-square&labelColor=000000&color=1a1a1a" alt="Backend" />
+<img src="https://img.shields.io/badge/MINDSET-Clean%20Architecture%20%7C%20Product%20Delivery-000000?style=flat-square&labelColor=000000&color=1a1a1a" alt="Mindset" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23E22718" width="24" alt="terminal" /> CURRENT MODE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&duration=2200&color=FFFFFF&background=000000&center=true&vCenter=true&width=860&height=48&lines=%24+mode+--fullstack+--fulltime+--selective-freelance;%24+focus+--ecommerce+--apis+--ui+--architecture;%24+brand+--zohanubis+--modern-classic" alt="Current mode terminal typing" />
+
+</div>
+
+```diff
++ ROLE        Fullstack Engineer
++ MAIN        Full-time software work
++ FREELANCE   Selective client systems
++ FOCUS       E-commerce · APIs · UI · Architecture
++ STYLE       Modern-classic · simple · structured
++ BRAND       Zohanubis
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -105,6 +114,9 @@ Brand      Zohanubis
 
 </div>
 
+---
+
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -151,6 +163,7 @@ Brand      Zohanubis
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -298,6 +311,8 @@ Responsive UI · e-commerce flows · reusable components · API integration · Q
 
 ---
 
+<div align="center">
+  
 ## <img src="https://api.iconify.design/lucide:building-2.svg?color=%23FFFFFF" width="24" alt="building icon" /> SIGNALS & PLACES
 
 <table>
@@ -319,6 +334,8 @@ Responsive UI · e-commerce flows · reusable components · API integration · Q
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -386,17 +403,23 @@ I don’t over-engineer early. I design simple systems first, then scale with pu
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23FFFFFF" width="24" alt="stats icon" /> GITHUB SIGNALS
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zohanubis&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=1C69D4" alt="Zohanubis GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohanubis&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb" alt="Zohanubis top languages" />
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23FFFFFF" width="24" alt="stats" /> GITHUB SIGNALS
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zohanubis&theme=github_dark" alt="Zohanubis GitHub profile details" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zohanubis&theme=dark&hide_border=true&background=000000&ring=1C69D4&fire=E22718&currStreakLabel=FFFFFF" alt="Zohanubis GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zohanubis&theme=github_dark" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zohanubis&theme=github_dark" alt="Most commit language" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zohanubis&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zohanubis&theme=github_dark&utcOffset=7" alt="Productive time" />
 
 </div>
 
@@ -404,13 +427,13 @@ I don’t over-engineer early. I design simple systems first, then scale with pu
 
 <div align="center">
 
-<img src="https://placehold.co/220x4/0066B1/0066B1.png" height="4" alt="M blue light stripe" /><img src="https://placehold.co/220x4/1C69D4/1C69D4.png" height="4" alt="M blue dark stripe" /><img src="https://placehold.co/220x4/E22718/E22718.png" height="4" alt="M red stripe" />
+<img src="https://placehold.co/220x4/0066B1/0066B1.png" height="4" alt="Blue stripe" /><img src="https://placehold.co/220x4/1C69D4/1C69D4.png" height="4" alt="BMW blue stripe" /><img src="https://placehold.co/220x4/E22718/E22718.png" height="4" alt="Red stripe" />
 
 <br />
 <br />
 
 <strong>Zohanubis</strong><br />
-<sub>Backend & Frontend Engineer · Building clean systems with product purpose.</sub>
+<sub>Fullstack Engineer · Building clean systems with product purpose.</sub>
 
 <br />
 <br />
@@ -418,3 +441,4 @@ I don’t over-engineer early. I design simple systems first, then scale with pu
 <a href="./PhamHoDangHuy_ATS_Resume.html"><img src="https://img.shields.io/badge/OPEN_ATS_RESUME-HTML-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000&color=ffffff" alt="Open ATS Resume" /></a>
 
 </div>
+
