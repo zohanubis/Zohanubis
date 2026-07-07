@@ -6,6 +6,11 @@
 
 <div align="center">
 
+<img src="./zohanubis.png" width="220" alt="Zohanubis logo" />
+
+<br />
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=900&duration=2600&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=72&lines=ZOHANUBIS+%E2%80%94+PHAM+HO+DANG+HUY;BACKEND+%2B+FRONTEND+ENGINEER;BUILD+CLEAN.+SHIP+FAST.+SCALE+WITH+PURPOSE." alt="Zohanubis typing banner" />
 
 <br />
