@@ -11,15 +11,12 @@
 <sub>Full-time Software Engineer · Selective Freelance Builder · Product-minded Fullstack Developer</sub>
 
 <br />
-<br />
+<a href="mailto:zohanubis.work@gmail.com"><img width="42" height="42" alt="Gmail" src="https://github.com/user-attachments/assets/51fcf806-94ae-4e0a-8d0a-3e1a4ac3660b" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/zohanubis"><img width="42" height="42" alt="LinkedIn" src="https://github.com/user-attachments/assets/3309ba0b-8ac9-46c4-9b6e-3c12fd9d651d" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/zohanubis"><img width="42" height="42" alt="GitHub" src="https://github.com/user-attachments/assets/e0aaebf9-9e16-41a4-b8ff-048670b483d6" /></a>
 
-<a href="mailto:zohanubis.work@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=1a1a1a" alt="Email" /></a>
-<a href="https://github.com/zohanubis"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/zohanubis"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=1C69D4" alt="LinkedIn" /></a>
-<a href="./PhamHoDangHuy_ATS_Resume.html"><img src="https://img.shields.io/badge/ATS_RESUME-HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff&color=ffffff" alt="ATS Resume HTML" /></a>
-<img src="https://komarev.com/ghpvc/?username=zohanubis&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br />
 <br />
 
 > <strong><em>I don’t stop when a challenge becomes solvable — I keep pushing until I overcome it, outgrow it, and come out stronger than before.</em></strong>
