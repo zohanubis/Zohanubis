@@ -1,16 +1,21 @@
-<!--
-  GitHub Profile README for Zohanubis / Pham Ho Dang Huy
-  Style direction: near-black canvas, white typography, restrained BMW M-inspired tricolor accents.
-  GitHub-safe: no custom CSS, no JS, CDN icons only.
--->
-
 <div align="center">
 <img width="2508" height="627" alt="zohanubis-banner" src="https://github.com/user-attachments/assets/07e67e1c-c810-4221-a00b-9a2ee6a8e1bd" />
 <br />
-<strong>Backend & Frontend Engineer</strong><br />
-<sub>Full-time Software Engineer · Selective Freelance Builder · Product-minded Fullstack Developer</sub>
+
+<h2>BACKEND &amp; FRONTEND ENGINEER</h2>
+
+<sub><b>FULL-TIME SOFTWARE ENGINEER</b> · <b>SELECTIVE FREELANCE BUILDER</b> · <b>PRODUCT-MINDED FULLSTACK DEVELOPER</b></sub>
 
 <br />
+<br />
+
+<img src="https://img.shields.io/badge/FULLSTACK-Product%20to%20Production-0066B1?style=for-the-badge&labelColor=0B0B0B" alt="Fullstack product to production" />
+<img src="https://img.shields.io/badge/ENGINEERING-Structure%20%26%20Scale-1C69D4?style=for-the-badge&labelColor=0B0B0B" alt="Engineering structure and scale" />
+<img src="https://img.shields.io/badge/DELIVERY-Ship%20%7C%20Measure%20%7C%20Improve-E22718?style=for-the-badge&labelColor=0B0B0B" alt="Delivery ship measure improve" />
+
+<br />
+<br />
+
 <a href="mailto:zohanubis.work@gmail.com"><img width="42" height="42" alt="Gmail" src="https://github.com/user-attachments/assets/51fcf806-94ae-4e0a-8d0a-3e1a4ac3660b" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/zohanubis"><img width="42" height="42" alt="LinkedIn" src="https://github.com/user-attachments/assets/3309ba0b-8ac9-46c4-9b6e-3c12fd9d651d" /></a>
@@ -18,8 +23,16 @@
 <a href="https://github.com/zohanubis"><img width="42" height="42" alt="GitHub" src="https://github.com/user-attachments/assets/e0aaebf9-9e16-41a4-b8ff-048670b483d6" /></a>
 
 <br />
+<br />
 
-> <strong><em>I don’t stop when a challenge becomes solvable — I keep pushing until I overcome it, outgrow it, and come out stronger than before.</em></strong>
+
+<tr>
+<td align="center">
+<sub><b>ENGINEERING PRINCIPLE</b></sub><br />
+<strong><em>I don’t stop when a challenge becomes solvable — I keep pushing until I overcome it, outgrow it, and come out stronger than before.</em></strong>
+</td>
+</tr>
+
 
 </div>
 
@@ -29,7 +42,11 @@
 
 ## <img src="https://api.iconify.design/lucide:radar.svg?color=%231C69D4" width="24" alt="radar" /> ENGINEERING PROFILE
 
+<sub>FROM PRODUCT INTERFACE TO PRODUCTION INFRASTRUCTURE</sub>
+
 </div>
+
+> **FULL PRODUCT LAYER** · Frontend interfaces → Backend services → API contracts → Database flows → Deployment pipelines
 
 I build across the full product layer: **frontend interfaces**, **backend services**, **API contracts**, **database flows**, and **deployment pipelines**. My strongest lane is **Fullstack Engineering** — using **React / Next.js / TypeScript** for product-facing experiences and **Java Spring Boot / Go** for backend systems.
 
@@ -49,6 +66,10 @@ I care about systems that are simple enough to ship, structured enough to mainta
 
 ## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23E22718" width="24" alt="terminal" /> CURRENT MODE
 
+<sub>ACTIVE ROLE · CURRENT FOCUS · PERSONAL ENGINEERING BRAND</sub>
+
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&duration=2200&color=FFFFFF&background=000000&center=true&vCenter=true&width=860&height=48&lines=%24+mode+--fullstack+--fulltime+--selective-freelance;%24+focus+--ecommerce+--apis+--ui+--architecture;%24+brand+--zohanubis+--modern-classic" alt="Current mode terminal typing" />
 
 </div>
@@ -64,7 +85,80 @@ I care about systems that are simple enough to ship, structured enough to mainta
 
 ---
 
+<div align="center">
+
+## <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C69D4" width="24" alt="workflow icon" /> ENGINEERING WORKFLOW
+
+<sub>DISCOVER → DESIGN → BUILD → VERIFY → DELIVER → IMPROVE</sub>
+
+</div>
+
+```mermaid
+flowchart LR
+    A["01 · DISCOVER<br/>Problem · Users · Constraints"] --> B["02 · DESIGN<br/>Architecture · Contracts · Data"]
+    B --> C["03 · BUILD<br/>Frontend · Backend · Integration"]
+    C --> D["04 · VERIFY<br/>Tests · QA · Performance"]
+    D --> E["05 · DELIVER<br/>CI/CD · Release · Documentation"]
+    E --> F["06 · IMPROVE<br/>Observe · Learn · Iterate"]
+    F -. feedback .-> A
+
+    classDef discovery fill:#072A40,stroke:#0066B1,color:#FFFFFF,stroke-width:2px;
+    classDef design fill:#0A3159,stroke:#1C69D4,color:#FFFFFF,stroke-width:2px;
+    classDef build fill:#111111,stroke:#FFFFFF,color:#FFFFFF,stroke-width:2px;
+    classDef verify fill:#3B1110,stroke:#E22718,color:#FFFFFF,stroke-width:2px;
+    classDef deliver fill:#3D3200,stroke:#F4B400,color:#FFFFFF,stroke-width:2px;
+    classDef improve fill:#102D25,stroke:#3ECF8E,color:#FFFFFF,stroke-width:2px;
+
+    class A discovery;
+    class B design;
+    class C build;
+    class D verify;
+    class E deliver;
+    class F improve;
+```
+
+> **OPERATING RULE** · Ship the smallest maintainable system, measure reality, then scale deliberately.
+
+<details>
+<summary><b>View the fullstack request-to-production map</b></summary>
+<br />
+
+```mermaid
+flowchart LR
+    U["User / Business Need"] --> UI["Frontend Experience<br/>React · Next.js · TypeScript"]
+    UI --> API["API Contract<br/>REST · GraphQL · gRPC"]
+    API --> DOM["Domain & Service Logic<br/>Java Spring Boot · Go"]
+    DOM --> DATA["Data Layer<br/>PostgreSQL · Supabase · Redis"]
+    DATA --> OPS["Delivery & Operations<br/>Docker · Actions · Vercel"]
+    OPS --> OBS["Observability<br/>Logs · Metrics · Feedback"]
+    OBS -. improvement loop .-> U
+
+    classDef blue fill:#072A40,stroke:#0066B1,color:#FFFFFF,stroke-width:2px;
+    classDef lightblue fill:#0A3159,stroke:#1C69D4,color:#FFFFFF,stroke-width:2px;
+    classDef neutral fill:#111111,stroke:#FFFFFF,color:#FFFFFF,stroke-width:2px;
+    classDef red fill:#3B1110,stroke:#E22718,color:#FFFFFF,stroke-width:2px;
+    classDef gold fill:#3D3200,stroke:#F4B400,color:#FFFFFF,stroke-width:2px;
+    classDef green fill:#102D25,stroke:#3ECF8E,color:#FFFFFF,stroke-width:2px;
+
+    class U blue;
+    class UI lightblue;
+    class API neutral;
+    class DOM red;
+    class DATA gold;
+    class OPS,OBS green;
+```
+
+</details>
+
+---
+
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FFFFFF" width="24" alt="cpu icon" /> TOOLBOX
+
+<sub>PRIMARY BUILD STACK · PLATFORM SERVICES · DELIVERY TOOLING</sub>
+
+</div>
 
 <div align="center">
 
@@ -153,7 +247,13 @@ I care about systems that are simple enough to ship, structured enough to mainta
 
 ---
 
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:route.svg?color=%23FFFFFF" width="24" alt="route icon" /> EXPERIENCE TIMELINE
+
+<sub>PRODUCTION WORK · CLIENT DELIVERY · TEAM EXPERIENCE</sub>
+
+</div>
 
 <table>
 <tr>
@@ -168,7 +268,7 @@ I care about systems that are simple enough to ship, structured enough to mainta
 
 Building production e-commerce interfaces for **CNL Gaming**, a game-item commerce platform running across multiple domains. Working with **React, Next.js, TypeScript, Tailwind CSS, REST, GraphQL**, Figma handoff, QA workflows, and performance optimization.
 
-**Highlights:** 30+ reusable UI components · most major frontend pages · LCP improved from red to green · production issue handling · backend change notes when APIs/data contracts need updates.
+<blockquote><b>DELIVERY HIGHLIGHTS</b> · 30+ reusable UI components · most major frontend pages · LCP improved from red to green · production issue handling · backend change notes when APIs/data contracts need updates.</blockquote>
 
 </td>
 </tr>
@@ -184,7 +284,7 @@ Building production e-commerce interfaces for **CNL Gaming**, a game-item commer
 
 Contributing to backend development using **Java** and **Spring Boot** under a confidential engagement. Focused on backend service logic, API implementation, documentation, and integration reliability while protecting client information.
 
-**Highlights:** backend modules · REST-oriented service layers · Java/Spring Boot delivery · confidential production-oriented work.
+<blockquote><b>DELIVERY HIGHLIGHTS</b> · backend modules · REST-oriented service layers · Java/Spring Boot delivery · confidential production-oriented work.</blockquote>
 
 </td>
 </tr>
@@ -200,7 +300,7 @@ Contributing to backend development using **Java** and **Spring Boot** under a c
 
 Contributed to a student rental platform connecting students and landlords, with a focus on transparent accommodation search. Worked in a cross-functional team across frontend, backend, BA, QA, DevOps, and PM.
 
-**Highlights:** home page · listing page · React/Next.js/TypeScript/Tailwind · MongoDB · REST/GraphQL exposure · Docker/GitHub Actions exposure.
+<blockquote><b>DELIVERY HIGHLIGHTS</b> · home page · listing page · React/Next.js/TypeScript/Tailwind · MongoDB · REST/GraphQL exposure · Docker/GitHub Actions exposure.</blockquote>
 
 </td>
 </tr>
@@ -208,7 +308,13 @@ Contributed to a student rental platform connecting students and landlords, with
 
 ---
 
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:blocks.svg?color=%23FFFFFF" width="24" alt="blocks icon" /> FEATURED SYSTEMS
+
+<sub>REAL PRODUCTS · REAL USERS · END-TO-END OWNERSHIP</sub>
+
+</div>
 
 <table>
 <tr>
@@ -220,7 +326,7 @@ Contributed to a student rental platform connecting students and landlords, with
 
 SEO & GEO-focused Vietnamese e-commerce platform for **mobile phones, used phones, accessories, SIM cards, and technology products**.
 
-**System scope**
+<sub><b>SYSTEM SCOPE</b></sub>
 - Storefront + admin operation system
 - Product catalog, category, brand, filter/search
 - Cart, checkout, orders, customers, inventory
@@ -228,7 +334,7 @@ SEO & GEO-focused Vietnamese e-commerce platform for **mobile phones, used phone
 - Shipping, product condition, variants, comparison
 - Role-based admin: owner, admin, staff, custom roles
 
-**Stack**
+<sub><b>STACK</b></sub>
 Next.js · TypeScript · Go · Chi · REST API · Clerk · Supabase/PostgreSQL · ORM · Supabase Realtime · Cloudinary · Docker · GitHub Actions · Vercel
 
 </td>
@@ -240,7 +346,7 @@ Next.js · TypeScript · Go · Chi · REST API · Clerk · Supabase/PostgreSQL �
 
 A family tree canvas web app that helps families visualize, create, update, and manage family relationships.
 
-**System scope**
+<sub><b>SYSTEM SCOPE</b></sub>
 - Canvas-based family tree interface
 - Owner-controlled access
 - Viewer / editor permission model
@@ -248,7 +354,7 @@ A family tree canvas web app that helps families visualize, create, update, and 
 - REST APIs for family tree workflows
 - Vercel deployment + GitHub Actions CI/CD
 
-**Stack**
+<sub><b>STACK</b></sub>
 Next.js · TypeScript · Clerk · Supabase · Prisma · REST API · Vercel · GitHub Actions
 
 </td>
@@ -262,7 +368,7 @@ Next.js · TypeScript · Clerk · Supabase · Prisma · REST API · Vercel · Gi
 
 Award-winning student activity attendance and academic article submission system built solo for a university-level competition.
 
-**System scope**
+<sub><b>SYSTEM SCOPE</b></sub>
 - Role-based student activity platform
 - QR-code check-in
 - AWS Rekognition facial verification
@@ -270,7 +376,7 @@ Award-winning student activity attendance and academic article submission system
 - Firebase Cloud Messaging notifications
 - RPD, SRS, data models, system documentation
 
-**Stack**
+<sub><b>STACK</b></sub>
 Next.js 15 · Shadcn/UI · Tailwind CSS · NestJS · MongoDB Replica Set · Redis · JWT · AWS S3 · Docker · GitHub Actions
 
 </td>
@@ -282,13 +388,13 @@ Next.js 15 · Shadcn/UI · Tailwind CSS · NestJS · MongoDB Replica Set · Redi
 
 Production e-commerce platform for game items. This work is listed under professional experience to avoid duplicating the experience timeline, but it remains one of my strongest production product references.
 
-**Production domains**
+<sub><b>PRODUCTION DOMAINS</b></sub>
 - cnlgaming.com
 - cnlgaming.io
 - cnlgaming.ru
 - cnlgaming.com.br/tr
 
-**Focus**
+<sub><b>FOCUS</b></sub>
 Responsive UI · e-commerce flows · reusable components · API integration · QA collaboration · performance optimization
 
 </td>
@@ -326,7 +432,13 @@ Responsive UI · e-commerce flows · reusable components · API integration · Q
 
 ---
 
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:award.svg?color=%23F4B400" width="24" alt="award icon" /> AWARD & EDUCATION
+
+<sub>ACADEMIC FOUNDATION · COMPETITION-VALIDATED DELIVERY</sub>
+
+</div>
 
 <table>
 <tr>
@@ -353,7 +465,13 @@ Relevant focus: data structures, database systems, web development, software arc
 
 ---
 
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FFFFFF" width="24" alt="mindset icon" /> HOW I WORK
+
+<sub>STRUCTURE · PRODUCT JUDGMENT · RESILIENCE · PURPOSEFUL SCALE</sub>
+
+</div>
 
 <table>
 <tr>
@@ -392,40 +510,22 @@ I don’t over-engineer early. I design simple systems first, then scale with pu
 
 <div align="center">
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23FFFFFF" width="24" alt="stats" /> GITHUB SIGNALS
+### BUILDING SYSTEMS THAT SURVIVE THE NEXT CHANGE
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zohanubis&theme=github_dark" alt="Zohanubis GitHub profile details" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zohanubis&theme=github_dark" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zohanubis&theme=github_dark" alt="Most commit language" />
+<sub>Product-minded engineering across interface, service, data, and delivery.</sub>
 
 <br />
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zohanubis&theme=github_dark" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zohanubis&theme=github_dark&utcOffset=7" alt="Productive time" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://placehold.co/220x4/0066B1/0066B1.png" height="4" alt="Blue stripe" /><img src="https://placehold.co/220x4/1C69D4/1C69D4.png" height="4" alt="BMW blue stripe" /><img src="https://placehold.co/220x4/E22718/E22718.png" height="4" alt="Red stripe" />
+<a href="mailto:zohanubis.work@gmail.com"><img src="https://img.shields.io/badge/CONTACT-zohanubis.work%40gmail.com-E22718?style=for-the-badge&labelColor=0B0B0B" alt="Email Zohanubis" /></a>
+<a href="https://linkedin.com/in/zohanubis"><img src="https://img.shields.io/badge/LINKEDIN-zohanubis-0066B1?style=for-the-badge&labelColor=0B0B0B" alt="LinkedIn Zohanubis" /></a>
 
 <br />
 <br />
 
-<strong>Zohanubis</strong><br />
-<sub>Fullstack Engineer · Building clean systems with product purpose.</sub>
-
-<br />
-<br />
-
-<a href="./PhamHoDangHuy_ATS_Resume.html"><img src="https://img.shields.io/badge/OPEN_ATS_RESUME-HTML-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000&color=ffffff" alt="Open ATS Resume" /></a>
+<img src="https://img.shields.io/badge/%20-0066B1?style=flat-square" alt="blue accent" />
+<img src="https://img.shields.io/badge/%20-1C69D4?style=flat-square" alt="light blue accent" />
+<img src="https://img.shields.io/badge/%20-E22718?style=flat-square" alt="red accent" />
 
 </div>
 
