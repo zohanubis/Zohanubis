@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="./zohanubis.png" width="220" alt="Zohanubis logo" />
 
 <br />
 <br />
