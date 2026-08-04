@@ -5,23 +5,8 @@
 -->
 
 <div align="center">
-
-
+<img width="2508" height="627" alt="zohanubis-banner" src="https://github.com/user-attachments/assets/07e67e1c-c810-4221-a00b-9a2ee6a8e1bd" />
 <br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=900&duration=2600&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=72&lines=ZOHANUBIS+%E2%80%94+PHAM+HO+DANG+HUY;BACKEND+%2B+FRONTEND+ENGINEER;BUILD+CLEAN.+SHIP+FAST.+SCALE+WITH+PURPOSE." alt="Zohanubis typing banner" />
-
-<br />
-
-<img src="https://placehold.co/290x5/0066B1/0066B1.png" height="5" alt="M blue light stripe" /><img src="https://placehold.co/290x5/1C69D4/1C69D4.png" height="5" alt="M blue dark stripe" /><img src="https://placehold.co/290x5/E22718/E22718.png" height="5" alt="M red stripe" />
-
-<br />
-<br />
-
-<h1>ZOHANUBIS</h1>
-<h3>Pham Ho Dang Huy</h3>
-
 <strong>Backend & Frontend Engineer</strong><br />
 <sub>Full-time Software Engineer · Selective Freelance Builder · Product-minded Fullstack Developer</sub>
 
@@ -176,7 +161,7 @@ I care about systems that are simple enough to ship, structured enough to mainta
 <table>
 <tr>
 <td width="92" align="center" valign="top">
-<img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCb6BsL-MWaEcmK8TcZwhjaHFYAeWn1sP4g-87v3GRFyvCLui8osT_Pve05Hsc3SHqtxQrIL4TQBYexush70igidhuUZ-VAFJrKXzmunqqxqPY6JbEAF7Y6Mr7mmltdAoM_wu06nT1vFyh=s1360-w1360-h1020-rw" width="58" alt="Cyberskill logo" />
+<img width="200" height="200" alt="cyberskill" src="https://github.com/user-attachments/assets/4ac0dea5-afd2-478b-a484-2a7a78fba226" />
 </td>
 <td valign="top">
 
@@ -208,7 +193,7 @@ Contributing to backend development using **Java** and **Spring Boot** under a c
 </tr>
 <tr>
 <td align="center" valign="top">
-<img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCb6BsL-MWaEcmK8TcZwhjaHFYAeWn1sP4g-87v3GRFyvCLui8osT_Pve05Hsc3SHqtxQrIL4TQBYexush70igidhuUZ-VAFJrKXzmunqqxqPY6JbEAF7Y6Mr7mmltdAoM_wu06nT1vFyh=s1360-w1360-h1020-rw" width="58" alt="Cyberskill logo" />
+<img width="200" height="200" alt="cyberskill" src="https://github.com/user-attachments/assets/a41ccdca-95ad-4ee1-b740-80d922eb7759" />
 </td>
 <td valign="top">
 
@@ -322,7 +307,8 @@ Responsive UI · e-commerce flows · reusable components · API integration · Q
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCb6BsL-MWaEcmK8TcZwhjaHFYAeWn1sP4g-87v3GRFyvCLui8osT_Pve05Hsc3SHqtxQrIL4TQBYexush70igidhuUZ-VAFJrKXzmunqqxqPY6JbEAF7Y6Mr7mmltdAoM_wu06nT1vFyh=s1360-w1360-h1020-rw" width="72" alt="Cyberskill logo" /><br />
+<img width="72" height="72" alt="cyberskill" src="https://github.com/user-attachments/assets/fe6eac88-90fb-41c3-b801-1dfde4df7b15" />
+<br />
 <b>Cyberskill Software Solutions</b><br />
 <sub>Frontend Developer · Full-time</sub>
 </td>
